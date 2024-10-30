@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "./"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"ENDATO",
+			"geokeys",
+			"geotiff",
+			"headlessui",
+			"heroicons",
+			"ISVG",
+			"latlng",
+			"mapbox",
+			"ndjson",
+			"NEXTAUTH",
+			"signin",
+			"tailwindcss",
+			"tanstack",
+			"uidotdev",
+			"usehooks",
+			"zustand"
+		]
+	}
+}
